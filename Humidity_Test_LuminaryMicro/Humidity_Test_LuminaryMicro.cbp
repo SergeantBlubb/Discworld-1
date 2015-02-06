@@ -59,7 +59,11 @@
 		</Unit>
 		<Extensions>
 			<code_completion />
-			<debugger />
+			<debugger>
+				<remote_debugging>
+					<options conn_type="0" serial_baud="115200" ip_address="localhost" ip_port="3333" additional_cmds="monitor halt&#x0A;load ./bin/Debug/Humidity_Test_LuminaryMicro&#x0A;file ./bin/Debug/Humidity_Test_LuminaryMicro&#x0A;monitor sleep 1000&#x0A;monitor reset" />
+				</remote_debugging>
+			</debugger>
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
