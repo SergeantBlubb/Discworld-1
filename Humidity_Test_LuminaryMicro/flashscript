@@ -1,0 +1,9 @@
+Device LM3S6965
+power off
+si 0
+speed auto
+i
+loadfile /home/noy/Discworld-1/Humidity_Test_LuminaryMicro/bin/Release/Humidity_Test_LuminaryMicro.hex
+r
+g
+qc
