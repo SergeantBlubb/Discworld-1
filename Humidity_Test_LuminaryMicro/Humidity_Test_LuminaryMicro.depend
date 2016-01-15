@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1423422259 source:/home/noy/Discworld-1/Humidity_Test_LuminaryMicro/Src/main.c
-	"lm3s6965.h"
-
-1364625652 /home/noy/Discworld-1/Humidity_Test_LuminaryMicro/Inc/lm3s6965.h
-
-1364625498 source:/home/noy/Discworld-1/Humidity_Test_LuminaryMicro/Src/startup_gcc.c
-
