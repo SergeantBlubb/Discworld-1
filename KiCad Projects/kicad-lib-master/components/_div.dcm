@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FM24CL64B
+D FRAM (64-Kbit)
+$ENDCMP
+#
+$CMP LTC2875
+D CAN transceiver
+$ENDCMP
+#
+$CMP TPS25200
+D eFuse
+K current limit overvoltage clamp
+$ENDCMP
+#
+#End Doc Library

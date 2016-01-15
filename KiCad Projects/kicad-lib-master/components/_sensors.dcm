@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP H3LIS331DL
+D high-g accelerometer
+K acc
+$ENDCMP
+#
+#End Doc Library
